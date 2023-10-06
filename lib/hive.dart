@@ -4,9 +4,9 @@ library hive;
 
 import 'dart:async';
 import 'dart:isolate'
-    if (dart.library.html) 'package:hive/src/impl/isolate_stub.dart';
+    if (dart.library.html) '../impl/isolate_stub.dart';
 
-import 'package:hive/src/impl/frame.dart';
+import '../impl/frame.dart';
 import 'package:isar/isar.dart';
 
 part 'src/impl/box_impl.dart';
