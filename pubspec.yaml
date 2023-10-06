@@ -1,4 +1,4 @@
-name: hive
+name: mac_hive
 description: Lightweight and buzzing-fast key-value database made for Flutter and Dart.
 version: 4.0.0-dev.2
 repository: https://github.com/isar/hive
